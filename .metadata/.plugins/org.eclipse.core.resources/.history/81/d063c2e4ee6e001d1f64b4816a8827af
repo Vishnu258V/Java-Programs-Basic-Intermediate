@@ -1,0 +1,27 @@
+package assignments_TrainingClassess;
+
+/*
+
+A
+A B
+A B C
+A B C D 
+A B C D E 
+
+Unicode valuse of  A = 65;
+
+*/
+
+public class PrintCharPattern_1 {
+	public static void main(String[] args) {
+		
+		for(char row=65; row<=69; row++) {
+			
+			for(char col=65; col<=69; col++) {
+				System.out.println(row);
+			}
+			System.out.println();
+		}
+		
+	}
+}

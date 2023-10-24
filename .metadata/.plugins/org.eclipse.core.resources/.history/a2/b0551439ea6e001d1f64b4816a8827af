@@ -1,0 +1,27 @@
+package assignments_TrainingClassess;
+/*
+ 
+ * * * *
+ * * *
+ * *
+ * 
+  
+ 
+ */
+
+
+
+
+public class PrintStarPattern_2 {
+
+	public static void main(String[] args) {
+		
+			int elem = 5;
+		
+		for(int row=1; row<=elem; row--) {
+			System.out.println("* ");
+		}
+		
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Final-Rest-API-with-SQL-Querys&apos;" deleteContents="false" description="Delete resource &apos;Final-Rest-API-with-SQL-Querys&apos;" element1="/Final-Rest-API-with-SQL-Querys" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1674892031446"/>
+</session>

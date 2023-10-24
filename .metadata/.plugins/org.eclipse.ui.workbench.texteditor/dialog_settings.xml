@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="content"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="messge"/>
+			<item value="err"/>
+			<item value="int"/>
+			<item value="setSaving"/>
+			<item value="setAccount"/>
+			<item value="Account"/>
+			<item value="throw"/>
+			<item value="Your Acount Number IS"/>
+			<item value="package Date_20_12_2022;"/>
+			<item value="abcdefghijklmnopqrstuvwxyz"/>
+			<item value="map"/>
+			<item value="map1"/>
+			<item value="str2"/>
+			<item value="str1"/>
+			<item value="PartyData2"/>
+		</list>
+		<list key="replacehistory">
+			<item value="content"/>
+			<item value="out"/>
+			<item value="Integer"/>
+			<item value="tr1"/>
+			<item value="map"/>
+			<item value="s2"/>
+			<item value="s1"/>
+			<item value="PartyDetails"/>
+			<item value="Word"/>
+			<item value="Conversion"/>
+			<item value="Subclass3"/>
+			<item value="in1"/>
+			<item value=""/>
+			<item value="emailId"/>
+			<item value="protected"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1006"/>
+		<item key="DIALOG_Y_ORIGIN" value="309"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="447"/>
+		<item key="DIALOG_Y_ORIGIN" value="240"/>
+	</section>
+</section>

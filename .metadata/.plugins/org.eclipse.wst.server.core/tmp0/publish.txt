@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Thu Apr 06 12:02:35 IST 2023
+org.eclipse.jst.jee.server\:FirstDynamicWebProject=C\:\\Apache Tom Cat Server\\apache-tomcat-10.0.27\\wtpwebapps\\FirstDynamicWebProject
+org.eclipse.jst.jee.server\:PublishingTheRestfulWebserver=C\:\\Apache Tom Cat Server\\apache-tomcat-10.0.27\\wtpwebapps\\PublishingTheRestfulWebserver

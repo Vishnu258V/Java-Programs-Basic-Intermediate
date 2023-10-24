@@ -1,0 +1,28 @@
+package assignments_TrainingClassess;
+/*
+ 
+ * * * *
+ * * *
+ * *
+ * 
+  
+ */
+
+
+public class PrintStarPattern_2 {
+	
+	
+	static void pattern1(int n) {
+	
+		System.out.println(n);
+		
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		pattern1(10);
+		
+	}
+
+}

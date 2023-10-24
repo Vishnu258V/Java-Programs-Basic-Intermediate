@@ -1,0 +1,21 @@
+package assignments_TrainingClassess;
+
+/*
+
+A
+A B
+A B C
+A B C D 
+A B C D E 
+
+*/
+
+public class PrintCharPattern_1 {
+	public static void main(String[] args) {
+		
+		int a = 'A';
+		char b = 66;
+		
+		System.out.println(a+" "+b);
+	}
+}
